@@ -1,0 +1,76 @@
+/*
+Autor: Alejandro Moreno López
+archibo: estilo1
+*/
+
+body{
+	background-image: url("imagenes/fondo.jpg");
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+article.ejercicio{
+	width: 22.5%;
+	float: left;
+	height: 125px;
+	color: white;
+	margin: 1.25%;
+	border-radius: 10px 10px 10px 10px;
+}
+#d1{
+	background-color: rgba(30, 30, 30, 0.8);
+}
+#d2{
+	background-color: rgba(50, 0, 0, 0.8);
+}
+#d3{
+	background-color: rgba(90, 00, 0, 0.8);
+}
+#d4{
+	background-color: rgba(0, 50, 0, 0.8);
+}
+#d5{
+	background-color: rgba(0, 90, 0, 0.8);
+}
+#d6{
+	background-color: rgba(0, 0, 50, 0.8);
+}
+#d7{
+	background-color: rgba(0,0, 90, 0.8);
+}
+#d8{
+	background-color: rgba(50, 50, 0, 0.8);
+}
+#d9{
+	background-color: rgba(90, 50, 0, 0.8);
+}
+#d10{
+	background-color: rgba(50, 90, 00, 0.8);
+}
+#d11{
+	background-color: rgba(50, 0, 50, 0.8);
+}
+#d12{
+	background-color: rgba(50, 0, 90, 0.8);
+}
+#d13{
+	background-color: rgba(90, 0, 50, 0.8);
+}
+#d14{
+	background-color: rgba(0, 50, 50, 0.8);
+}
+#d15{
+	background-color: rgba(0, 50, 90, 0.8);
+}
+#d16{
+	background-color: rgba(0, 90, 50, 0.8);
+}
+h1{
+	text-align: center;
+	font-size: 27px;
+}
+p{
+	text-align: center;
+	font-size: 16px;
+}
